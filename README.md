@@ -24,3 +24,4 @@ For each of the contextualized embeddings implementation, the artifacts are save
 TODO:
 - change names of the files
 - add the final abstract 
+- change name of variables and files after rerunning everything so that sure that everything works correctly
