@@ -13,6 +13,7 @@ It is structured as follow:
 
 The artifacts of the EDA is the dataset augmented from three variables which are three different ways to split the reports( using the variable _president_start_ (not used in final analysis) and then using the _Institutional control_ and _Presidential control_ and :
 * `df_politicization_gov_3.xlsx`--> `df_politicization_3_gov_splits.xlsx`
+* `df_keywords_gov_3.xlsx`--> `df_keywords_3_gov_splits`
 
 For each of the contextualized embeddings implementation, the artifacts are saved as `xlsx` files:
 * `df_keywords_with_pol_score_gov_full_word.xlsx` --> `df_keywords_with_pol_score_inst_control_BERT.xlsx`
