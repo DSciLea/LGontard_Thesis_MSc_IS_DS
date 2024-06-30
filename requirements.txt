@@ -1,0 +1,8 @@
+pandas version: 2.0.3
+numpy version: 1.25.2
+torch version: 2.3.0+cu121
+nltk version: 3.8.1
+seaborn version: 0.13.1
+
+Python version: 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0]
+Platform: Linux-6.1.85+-x86_64-with-glibc2.35
