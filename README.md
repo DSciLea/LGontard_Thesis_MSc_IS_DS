@@ -11,7 +11,7 @@ This paper offers a solution to process unstandardized text in the context of ev
 It is structured as follows:
 
 **Experiments**:
-* A comprehensive EDA :
+* A comprehensive EDA: `EDA_USAID.ipynb`
 * An implementation of contextualized embeddings using BERT and the variable _Presidential control_: `BERT_institutional_split.ipynb`
 * An implementation of contextualized embeddings using BERT and the variable _Institutional control_: `BERT_presidential_split.ipynb` 
 * An implementation of contextualized embeddings using RoBERTa and the variable _Presidential control_: `RoBERTa_institutional_split.ipynb`
